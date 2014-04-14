@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
+\contentsline {subsection}{\numberline {1.1}Motivaci\IeC {\'o}n Personal}{3}
+\contentsline {subsection}{\numberline {1.2}Objetivos del proyecto}{3}
+\contentsline {section}{\numberline {2}Estado del arte}{4}
+\contentsline {subsection}{\numberline {2.1}Veh\IeC {\'\i }culos A\IeC {\'e}reos no tripulados (UAV's)}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}Tipos}{4}
+\contentsline {subsection}{\numberline {2.2}Cuadric\IeC {\'o}pteros}{4}
+\contentsline {subsection}{\numberline {2.3}Modelos Comerciales}{4}
+\contentsline {section}{\numberline {3}Funcionamiento de un cuadric\IeC {\'o}ptero}{5}
+\contentsline {subsection}{\numberline {3.1}Chasis}{8}
+\contentsline {subsection}{\numberline {3.2}Sistema de propulsi\IeC {\'o}n}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Motores}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}ESC (Variadores)}{10}
+\contentsline {subsubsection}{\numberline {3.2.3}H\IeC {\'e}lices}{11}
+\contentsline {subsection}{\numberline {3.3}Sistema de alimentaci\IeC {\'o}n}{11}
+\contentsline {subsection}{\numberline {3.4}Sistema de control}{11}
