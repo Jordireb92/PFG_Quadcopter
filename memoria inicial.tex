@@ -58,7 +58,7 @@
 			\label{fig:quadrotorhover}
 		\end{figure}
 		
-		Con esta conFiguración, si los 4 rotores giran con la misma velocidad angular, el par aerodinámico resultante sobre la aeronave es nulo, y entonces no hay aceleración angular en la dirección yaw. Así es como un quadricóptero se mantiene volando a una misma altitud y sin girar sobre si mismo, y acelerando o frenando por igual los 4 rotores es como gana o pierde altitud, respectivamente. 
+		Con esta configuración, si los 4 rotores giran con la misma velocidad angular, el par aerodinámico resultante sobre la aeronave es nulo, y entonces no hay aceleración angular en la dirección yaw. Así es como un quadricóptero se mantiene volando a una misma altitud y sin girar sobre si mismo, y acelerando o frenando por igual los 4 rotores es como gana o pierde altitud, respectivamente. 
 		
 		Para controlar el roll y el pitch, el cuadricóptero aumenta el empuje de un rotor y disminuye el empuje del rotor diametralmente opuesto (Figura \ref{fig:quadrotorpitch_androll}).
 		
@@ -154,7 +154,7 @@ Como punto a favor, es el motor eléctrico más sencillo de controlar, ya que 	s
 			
 			Su nombre viene de “Máquina de corriente continua sin escobillas”, en inglés 	brushless, aunque en realidad son motores trifásicos síncronos. Se los denomina de 	esta manera debido a que suelen llevar una electrónica que pasa de corriente continua 	a la trifásica que necesitan para funcionar, y de esta manera se controlan igual que los 	motores de continua.
 			
-	En su conFiguración más habitual o outrunner, se componen de un estator interno 	bobinado y un rotor externo con imanes permanentes, que es el que gira (Figura \ref{fig:motor_brushless}). También 	existen los inrunners, donde el rotor es interno.
+	En su configuración más habitual o outrunner, se componen de un estator interno 	bobinado y un rotor externo con imanes permanentes, que es el que gira (Figura \ref{fig:motor_brushless}). También 	existen los inrunners, donde el rotor es interno.
 
 			\begin{figure}
 			\centering
@@ -329,13 +329,13 @@ El sistema de navegación es el encargado de generar los 4 grados de libertad de
 
 
 		\subsection{Diseño del chasis}\label{subsec:diseno_chasis}
-Una vez decidida la conFiguración de cuadricóptero en X, es decir, que el eje de avance (x) está entre los rotores (Figura \ref{fig:conFiguracion_quad}), hizo falta estudiar qué solución estructural era más ventajosa. Los ejes del cuadricóptero que se han utilizado son el eje longitudinal “x”, el eje transversal “y” y el restante eje “z” que en el dibujo sale del papel. Las direcciones positivas corresponden a las del dibujo, es decir, el eje “x” hacia delante, el eje “y” hacia la izquierda y el eje “z” hacia arriba.
+Una vez decidida la configuración de cuadricóptero en X, es decir, que el eje de avance (x) está entre los rotores (Figura \ref{fig:configuracion_quad}), hizo falta estudiar qué solución estructural era más ventajosa. Los ejes del cuadricóptero que se han utilizado son el eje longitudinal “x”, el eje transversal “y” y el restante eje “z” que en el dibujo sale del papel. Las direcciones positivas corresponden a las del dibujo, es decir, el eje “x” hacia delante, el eje “y” hacia la izquierda y el eje “z” hacia arriba.
 
 		\begin{figure}
 			\centering
 			\includegraphics[width=0.7\textwidth]{Imatges/Disseny_Chasis/Quad_eixos.png}
-			\caption{ConFiguración de los cuadricópteros}
-			\label{fig:conFiguracion_quad}
+			\caption{Configuración de los cuadricópteros}
+			\label{fig:configuracion_quad}
 		\end{figure}
 		
 Las posibles soluciones a considerar se agruparon en las siguientes familias:
@@ -352,10 +352,10 @@ Se caracteriza por ser asimétrica entre los dos ejes “x” e “y”, por lo 
 			\label{fig:chasis_H}
 		\end{figure}
 
-Esta conFiguración permite tener mucho espacio disponible para alojar componentes en la parte central, y bien diseñada es muy robusta estructuralmente.
+Esta configuración permite tener mucho espacio disponible para alojar componentes en la parte central, y bien diseñada es muy robusta estructuralmente.
 			
 		\item Mediante una estructura de barras cruzadas en “X”:  (Figura \ref{fig:chasis_X})
-
+		
 Consistente en dos brazos superpuestos o cruzados por sus puntos medios y perpendiculares entre sí (también cada brazo puede estar formado por varios perfiles diferentes a su vez). En la parte central lleva la mayoría de componentes sobre unas estructuras de refuerzo. Tiene la ventaja de que es simétrica en los ejes “x” e “y”, aunque debido a que las barras se cruzan en la parte central no se optimiza el peso ni el espacio disponible.
 		\begin{figure}
 			\centering
