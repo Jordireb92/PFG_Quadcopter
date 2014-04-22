@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Funcionamiento de un cuadric\IeC {\'o}ptero}{3}
+\contentsline {subsection}{\numberline {1.1}Chasis}{5}
+\contentsline {subsection}{\numberline {1.2}Sistema de propulsi\IeC {\'o}n}{6}
+\contentsline {subsubsection}{\numberline {1.2.1}Motores}{6}
+\contentsline {subsubsection}{\numberline {1.2.2}ESC (Variadores)}{9}
+\contentsline {subsubsection}{\numberline {1.2.3}H\IeC {\'e}lices}{12}
+\contentsline {subsection}{\numberline {1.3}Sistema de alimentaci\IeC {\'o}n}{14}
+\contentsline {subsection}{\numberline {1.4}Sistema de control}{16}
+\contentsline {subsection}{\numberline {1.5}Sistema de navegaci\IeC {\'o}n}{17}
+\contentsline {section}{\numberline {2}Dise\IeC {\~n}o del cuadric\IeC {\'o}ptero}{18}
+\contentsline {subsection}{\numberline {2.1}Dise\IeC {\~n}o del chasis}{18}
+\contentsline {subsection}{\numberline {2.2}Dise\IeC {\~n}o del tren de aterrizaje con suspensi\IeC {\'o}n}{26}
+\contentsline {section}{\numberline {3}Elecci\IeC {\'o}n de los componentes del cuadric\IeC {\'o}ptero}{27}
+\contentsline {subsection}{\numberline {3.1}Elecci\IeC {\'o}n del sistema de propulsi\IeC {\'o}n y alimentaci\IeC {\'o}n}{27}
+\contentsline {subsubsection}{\numberline {3.1.1}Criterios de elecci\IeC {\'o}n}{30}
+\contentsline {subsubsection}{\numberline {3.1.2}Elecci\IeC {\'o}n de los componentes}{31}
+\contentsline {subsection}{\numberline {3.2}Elecci\IeC {\'o}n del sistema de control y navegaci\IeC {\'o}n}{38}
